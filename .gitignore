@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+#Temp logs for kafka
+/tmp/
